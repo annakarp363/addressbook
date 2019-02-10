@@ -1,0 +1,24 @@
+.inputWrapper {
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid var(--black);
+  outline: none;
+}
+
+.input::placeholder {
+  color: var(--black);
+}
+
+.invalid {
+  border: 1px solid var(--trinidad);
+}
+
+.validateMessage {
+  margin-top: 5px;
+  font-size: 12px;
+  color: var(--trinidad);
+}

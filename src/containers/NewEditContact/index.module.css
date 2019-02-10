@@ -1,0 +1,22 @@
+.newEditContact {
+  margin-top: 20px;
+}
+
+.buttonsWrapper {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.leftButton {
+  margin-right: auto;
+}
+
+.rightButton {
+  margin-left: 10px;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 600;
+}

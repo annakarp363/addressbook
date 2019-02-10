@@ -1,0 +1,17 @@
+:root {
+  /* --var-name: value */
+  /* colors http://www.htmlcsscolor.com/hex/ */
+
+  --white: #fff;
+  /*--ghost-white: #f9f9fb;*/
+  /*--pattens-blue: #dae1e7;*/
+  /*--hawkes-blue: #d9dce1;*/
+  --link-water: #c9ced3;
+  /*--mischka: #a9aeb4;*/
+  /*--grey-chateau: #949ea8;*/
+  /*--grey: #7d7878;*/
+  /*--baltic-sea: #323c46;*/
+  --black: #000;
+  --shamrock-green: #129259;
+  --trinidad: #cc4b33;
+}
